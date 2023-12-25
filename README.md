@@ -37,4 +37,61 @@ Naive Bayes: Clickbait detection
 Transformers: Named entity recognition for names and places
 Transformers: Subjectivity analysis
 BERT: News similarity assessment
+
+Tech Stack
+GlobalTruthHub is built on a robust tech stack to deliver accurate and efficient news verification.
+
+Generative AI, Machine Learning, and Deep Learning: Powering the core of our news verification engine.
+Flask: Providing a reliable and scalable web framework.
+JavaScript, HTML, CSS, Bootstrap: Enabling a responsive and user-friendly interface.
+Beautiful Soup, Selenium: Supporting web scraping for data collection.
+Installation
+Follow these steps to set up GlobalTruthHub locally:
+
+Clone the Repository:
+
+bash
+Copy code
+git clone https://github.com/vempatisaivishal/GlobalTruthHub.git
+Navigate to the Project Directory:
+
+bash
+Copy code
+cd GlobalTruthHub
+Install Dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the Application:
+
+bash
+Copy code
+python app.py
+Access the Application:
+Visit http://localhost:5000 in your web browser.
+
+Usage
+Input News:
+Navigate to the entry point to input news articles.
+
+Verify Authenticity:
+See the verification results indicating whether the entered news is true or false.
+
+Explore Personalized News Feed:
+Access your personalized news feed enriched with verified information.
+
+Filter by Date and Region:
+Use the filtering options to tailor your news feed based on date and region.
+
+Contributing
+We encourage contributions to make GlobalTruthHub even more impactful. Please review our Contribution Guidelines for detailed information on how to contribute.
+
+License
+This project is licensed under the MIT License.
+
+Acknowledgments
+We extend our appreciation to the University of South Florida System for organizing the hackathon and fostering innovation in education.
+
+
 NER Pipeline: Loading the named entity recognition model
