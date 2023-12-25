@@ -15,6 +15,8 @@ Leveraging Generative AI, Machine Learning, and Deep Learning models, GlobalEduH
 For each verified news article, GlobalEduHub provides links to credible sources, empowering students to follow a study path based on reliable information.
 5. Auto-Population for Quality Education
 The auto-populating feature allows students to automatically share verified news, reducing the spread of misinformation and elevating the overall quality of education.
+
+
 Tools Used
 Generative AI
 Machine Learning
