@@ -33,6 +33,8 @@ Transformers: Named entity recognition for names and places
 Transformers: Subjectivity analysis
 BERT: News similarity assessment
 NER Pipeline: Loading the named entity recognition model
+
+
 Getting Started
 Install the required dependencies by running pip install -r requirements.txt.
 Launch the application with python app.py.
