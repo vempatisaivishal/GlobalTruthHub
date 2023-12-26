@@ -120,7 +120,6 @@ GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts s
    pip install -r requirements.txt
    ```
 
-3. [Include any additional steps for setting up specific tools or technologies, such as installing browser drivers for Selenium.]
 
 ## Usage
 
