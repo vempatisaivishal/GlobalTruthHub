@@ -155,13 +155,10 @@ For any inquiries or support, please contact Saivishal Vempati at [vempatisaivis
 
 - Generative AI
 - Google Bard
--Vempati Sai Vishal
--Narigiri Vaishnav
--Chitimella Praneeth
--M Shanmukh
-
-
-
-
+  
+Vempati Sai Vishal
+Narigiri Vaishnav
+Chitimella Praneeth
+M Shanmukh
 
 ---
