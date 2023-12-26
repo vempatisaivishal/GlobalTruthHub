@@ -1,5 +1,3 @@
-
-
 # GlobalEduHub: Empowering Students with Reliable Information
 
 Welcome to GlobalEduHub, an advanced solution developed to transform and fully mobilize the student experience at the University of South Florida System.
@@ -87,32 +85,28 @@ GlobalTruthHub provides options to filter the news feed based on date and region
 
 ## What Makes This Project Special
 
-
-
 ### Interactive Interface
-
-One of the standout features is its interactive interface, offering a user-friendly experience. GlobalTruthHub incorporates features not commonly found in other educational hubs.
-GlobalTruthHub comes with several distinctive features that set it apart from other education hubs and resources.
 
 ![Interactive Features](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss7.jpg?raw=true)
 
-
+GlobalTruthHub comes with several distinctive features that set it apart from other education hubs and resources.
 
 ### Chat Bot Assistance
 
-The project includes an interactive chatbot designed to assist students in understanding the application. If a student is confused, the chatbot provides guidance, enhancing the overall user experience.
 ![Chat Bot](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss8.jpg?raw=true)
+
+The project includes an interactive chatbot designed to assist students in understanding the application. If a student is confused, the chatbot provides guidance, enhancing the overall user experience.
 
 ### Auto-Populating Feature
 
-GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts students if they are reading misleading or incorrect news, fostering a more informed educational experience.
 ![Auto-Populating Feature](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss9.jpg?raw=true)
+
+GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts students if they are reading misleading or incorrect news, fostering a more informed educational experience.
 
 ### Focus on Natural Language Processing (NLP)
 
-The entire project is centered around Natural Language Processing (NLP), leveraging cutting-edge technologies to enhance the quality of news verification. The images below illustrate the NLP process.
 ![NLP](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss10.jpg?raw=true)
 
+The entire project is centered around Natural Language Processing (NLP), leveraging cutting-edge technologies to enhance the quality of news verification. The images below illustrate the NLP process.
+
 ---
-
-
