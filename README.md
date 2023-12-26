@@ -105,6 +105,61 @@ GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts s
 
 ### Focus on Natural Language Processing (NLP)
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+git clone https://github.com/vempatisaivishal/GlobalTruthHub.git
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   cd GlobalTruthHub
+   pip install -r requirements.txt
+   ```
+
+3. [Include any additional steps for setting up specific tools or technologies, such as installing browser drivers for Selenium.]
+
+## Usage
+
+1. Run the application:
+
+   ```bash
+   python app.py
+   ```
+
+2. Open your web browser and navigate to the provided local URL.
+
+3. You can give input as text form or else the input can be given as image where we will take the input image and using OCR we will extract the text from image
+4.Please give images which has news or some text inside it
+
+## Configuration
+
+Users can customize the project by modifying the Bard API key. In case users encounter issues, they can replace the key in the configuration file.
+
+## Future Enhancements
+
+- **Database Integration:** Future plans include connecting the project to a database for data storage and retrieval.
+- **Power BI Integration:** Explore options for enhancing interactivity by integrating the project with Power BI.
+
+## Contact Information
+
+For any inquiries or support, please contact Saivishal Vempati at [vempatisaivishal@gmail.com](mailto:vempatisaivishal@gmail.com).
+
+## Credits
+
+- Generative AI
+- Google Bard
+-Vempati Sai Vishal
+-Narigiri Vaishnav
+-Chitimella Praneeth
+-M Shanmukh
+
+
+
+
 ![NLP](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss10.jpg?raw=true)
 
 The entire project is centered around Natural Language Processing (NLP), leveraging cutting-edge technologies to enhance the quality of news verification. The images below illustrate the NLP process.
