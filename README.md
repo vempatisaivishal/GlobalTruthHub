@@ -110,7 +110,7 @@ GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts s
 1. Clone the repository:
 
    ```bash
-git clone https://github.com/vempatisaivishal/GlobalTruthHub.git
+      git clone https://github.com/vempatisaivishal/GlobalTruthHub.git
    ```
 
 2. Install dependencies:
