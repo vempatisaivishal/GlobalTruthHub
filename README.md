@@ -105,6 +105,10 @@ GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts s
 
 ### Focus on Natural Language Processing (NLP)
 
+![NLP](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss10.jpg?raw=true)
+
+The entire project is centered around Natural Language Processing (NLP), leveraging cutting-edge technologies to enhance the quality of news verification. The images below illustrate the NLP process.
+
 ## Installation
 
 1. Clone the repository:
@@ -159,8 +163,5 @@ For any inquiries or support, please contact Saivishal Vempati at [vempatisaivis
 
 
 
-![NLP](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss10.jpg?raw=true)
-
-The entire project is centered around Natural Language Processing (NLP), leveraging cutting-edge technologies to enhance the quality of news verification. The images below illustrate the NLP process.
 
 ---
