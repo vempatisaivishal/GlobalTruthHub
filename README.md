@@ -85,6 +85,34 @@ Students can access a curated news feed enriched with verified information for t
 
 GlobalTruthHub provides options to filter the news feed based on date and region, tailoring the information to specific student requirements.
 
+## What Makes This Project Special
+
+![Special Features](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss7.jpg?raw=true)
+
+GlobalTruthHub comes with several distinctive features that set it apart from other education hubs and resources.
+
+![Interactive Features](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss8.jpg?raw=true)
+
+### Interactive Interface
+
+One of the standout features is its interactive interface, offering a user-friendly experience. GlobalTruthHub incorporates features not commonly found in other educational hubs.
+
+![Chat Bot](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss9.jpg?raw=true)
+
+### Chat Bot Assistance
+
+The project includes an interactive chatbot designed to assist students in understanding the application. If a student is confused, the chatbot provides guidance, enhancing the overall user experience.
+
+![Auto-Populating Feature](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss10.jpg?raw=true)
+
+### Auto-Populating Feature
+
+GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts students if they are reading misleading or incorrect news, fostering a more informed educational experience.
+
+### Focus on Natural Language Processing (NLP)
+
+The entire project is centered around Natural Language Processing (NLP), leveraging cutting-edge technologies to enhance the quality of news verification. The images below illustrate the NLP process.
+
 ---
 
 
